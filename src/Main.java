@@ -3,8 +3,8 @@ public class Main {
         int cost = 25498;
         int oneBonus = 20;
 
-        int x = cost / oneBonus;
-        System.out.println(x);
+        int totalBonus = cost / oneBonus;
+        System.out.println(totalBonus);
 
     }
 }
